@@ -40,7 +40,7 @@ dan juga kita bisa menghapus jadwalnya contohnya jam 01:00 kita ganti jamnya, se
     Sistem berakhir setelah pengguna keluar.
 
 >> gambar flowcahrt
-<img width="1920" height="1080" alt="Screenshot 2026-10-04 212155" src="https://github.com/user-attachments/assets/e2e6c00a-a427-41aa-aeba-f1d50ce0011e" />
+<img width="812" height="1122" alt="flowchart_sistem_jadwal_harian_semua_garis" src="https://github.com/user-attachments/assets/c63b5fe4-1921-47b1-a916-5acb828b7cf9" />
 
 >> Dokumentasi Program & Output, disertai dengan penjelasannya
 
